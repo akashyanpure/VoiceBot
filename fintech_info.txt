@@ -1,0 +1,29 @@
+Fintech Sandpit is a POC-as-a-Service innovation platform that facilitates POCs (Proof of concepts) between banks and fintechs; enabling them to rapidly build and test prototype solutions product partnerships. Our Fintech API Marketplace allows banks to discover, test and partner with the most innovative Fintechs, enabling them to create new products in half the time, increase their end-to-end speed to market, and complement or replace existing services. 
+
+Fintech Sandpit has created a flexible business model to meet the diverse requirements and size of its customers. This includes one-off payments, monthly or annual subscriptions and enterprise whitelabel solutions with innovative ecosystem management and built-in synthetic data capabilities. 
+
+Fintech Sandpit is founded by Matthew Allan. At 21 years old, Matt is one of the world’s youngest digital bankers and an image of the future of the financial services industry. 
+
+Before founding Fintech Sandpit, he received a prestigious financial scholarship to study at the University of Sydney, where he maintained a High Distinction (HD) average. Matt was also headhunted at 18 years old to work as the cybersecurity lead for Europe/Americas at Westpac Bank. As part of an undisclosed team, he deployed the first real-time machine learning system to identify malicious web requests, keeping the Bank’s 40k+ employees safe.
+
+The Fintech Sandpit marketplace is unmatched, with some of the largest and most established global fintechs onboard. The company has already proved its value by working with 20 UK banks and has received interest from several global regulators, including a paid pilot with the UK Financial regulator.  
+
+The business has received angel investment, sales proceeds, seed funding and is currently applying for grants.
+
+In 2019 Fintech Sandpit was part of the winning team of the FCA TechSprint. Using Fintech Sandpit, the team built a solution in less than a week using technology from two banks and two fintechs to address financial fraud.
+
+The company was also accepted into the highly-competitive Accenture Fintech Innovation Lab in 2020, from amongst 600+ applications.
+
+Fintech Sandpit employs 15 employees of both genders, from diverse backgrounds across 6 time zones and recognises the importance of cognitive diversity and transparency.
+
+To support the business, Matt created a virtual advisory leadership team for Fintech Sandpit, consisting of members from Department of International Trade, HSBC, RBS, Westpac, ING, QED, and principal IT specialists from Financial Institutions. 
+
+Matt recognises there is space for his skills to be used ‘for good’ in developing societies across the world.  In 2018, he lived in Cambodia, volunteering his cybersecurity and machine learning expertise to FarmEd, a smartphone app that uses drone and ML technology to predict crop-yield in developing nations. 
+
+We are nominating Fintech Sandpit because it’s a true Fintech disruptor. The speed of FinTech partnerships can be very slow. In some cases, a POC can take 6-18 months until a full contract is signed. This level of banking bureaucracy can be life-threatening for new fintechs. Fintech Sandpit turns the traditional business model on its head, by providing an innovative infrastructure that accelerates fintech innovation around the world and cuts the sales cycle to a third of traditional timing. 
+
+The value of these partnerships is exponential for both the banks and the fintechs. The acceleration of digital transformation gives the banks the capability to test multiple fintechs for the same effort as testing with one, further it enables firms to monetise their APIs at a much faster rate. By speeding up the POC, pilot and sales processes, Fintech Sandpit has created significant time and resource savings for the banks whilst enabling Fintechs to validate and commercialise their proposition more quickly. This speed has not only enabled many fintechs to survive but also accelerated the agenda of digital transformation in the sector.
+
+Covid 19 has significantly accelerated the need for innovation, our platform streamlines the discovery and enables digital first dialogue between the new technology fintechs and incumbents in the Financial Services sector. The business is in active dialogue with three UK high street banks and two investment banks. Furthermore, closing on a regulator this year puts Fintech Sandpit in a credible position with the Financial Institutions. 
+
+The central ethos of Fintech Sandpit is to provide an end-to-end platform that enables banks and fintech to collaborate and deliver new financial products quickly and at scale. This bridge supports the post covid-19 new ways of working, by allowing partners from across the world to work together virtually without the need to physically meet. This acceleration and enabler of digital transformation will become increasingly important to support the recovery of the UK’s economy and its thriving financial services sector. Fintech Sandpit will play a critical part in building an industry that improves financial wellbeing for society and individuals by delivering financial service products that can enable and support consumers.
